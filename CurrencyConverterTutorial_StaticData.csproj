@@ -115,9 +115,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Logo.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\edit-button.png" />
   </ItemGroup>
   <ItemGroup>
